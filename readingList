@@ -1,1 +1,3 @@
-xpdf tcp_ip_networkadministration_3rdedition.pdf 50 -z 200
+xpdf ~/books/tcp_ip_networkadministration_3rdedition.pdf 50 -z 200
+djview -page=31 -zoom=200 ~/books/'(Beginner and Elementary Go Books) Chikun Cho-Go_ a complete introduction to the game-Kiseido Publishing Co (1997).djvu'
+xpdf ~/books/google_sre_2_2018.pdf 33 -z 200
