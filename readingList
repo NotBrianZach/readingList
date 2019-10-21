@@ -6,3 +6,17 @@ xpdf ~/media/books/google_sre_2_2018.pdf 33 -z 200
 xpdf ~/media/books/unixpowertools.pdf 43 -z 200
 
 xpdf ~/media/books/wiresharkforsecurityprofessionals.pdf 28 -z 200
+
+# systemd for admins currently on http://0pointer.net/blog/projects/blame-game.html
+https://gist.github.com/bcremer/8cdf6900c35dda65f387
+
+# read through part one, onto part two, but will have to come back to implement
+https://nodesource.com/blog/running-your-node-js-app-with-systemd-part-1/
+
+# list of books to work through
+https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+
+# supposedly a classic paper on monte carlo methods and how they takin over
+# (from algo meetup)
+https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf
+
