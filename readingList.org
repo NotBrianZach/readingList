@@ -1,0 +1,39 @@
+CURRENT
+# 0-
+ebook-viewer ~/media/books/TheDividedSelf2010.epub --open-at 1
+
+* Psych
+ # 0-
+ xpdf ~/media/books/PlayingAndReality.pdf 0 -z 200
+ (TODO after this, xpdf ~/media/books/PlayingAndRealityRevisted2015.pdf 0 -z 200)
+* Technical
+# 0-
+xpdf ~/media/books/tcp_ip_networkadministration_3rdedition.pdf 50 -z 200
+
+# 0-
+xpdf ~/media/books/GOOGLESRE.pdf 0 -z 200
+# OLD xpdf ~/media/books/google_sre_2_2018.pdf 33 -z 200
+
+# 0-
+xpdf ~/media/books/unixpowertools.pdf 43 -z 200
+
+xpdf ~/media/books/wiresharkforsecurityprofessionals.pdf 28 -z 200
+
+
+* Web
+https://github.com/jlevy/the-art-of-command-line
+# systemd for admins currently on http://0pointer.net/blog/projects/blame-game.html
+https://gist.github.com/bcremer/8cdf6900c35dda65f387
+
+http://marklodato.github.io/visual-git-guide/index-en.html?no-svg
+
+# supposedly a classic paper on monte carlo methods and how they takin over
+# (from algo meetup)
+https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf
+** IMMINENTLY TOPICAL LINKS
+# read through part one, onto part two, but will have to come back to implement
+https://nodesource.com/blog/running-your-node-js-app-with-systemd-part-1/
+http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html
+** Lists
+https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html
+https://github.com/stared/science-based-games-list
