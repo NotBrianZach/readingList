@@ -1,6 +1,11 @@
 CURRENT
 # 0-
-ebook-viewer ~/media/books/TheDividedSelf2010.epub --open-at 1
+ebook-viewer ~/media/books/TheDividedSelf2010.epub --open-at 59
+
+# 0-
+xpdf ~/media/books/tcp_ip_networkadministration_3rdedition.pdf 50 -z 200
+
+xpdf ~/media/books/LinuxProgrammingInterface2010.pdf
 
 * Psych
  # 0-
@@ -24,6 +29,9 @@ xpdf ~/media/books/wiresharkforsecurityprofessionals.pdf 28 -z 200
 https://github.com/jlevy/the-art-of-command-line
 # systemd for admins currently on http://0pointer.net/blog/projects/blame-game.html
 https://gist.github.com/bcremer/8cdf6900c35dda65f387
+
+# native chinese speakers take on learning leetcode
+https://github.com/labuladong/fucking-algorithm/blob/english/think_like_computer/ThewaytoAlgorithmlearning.md
 
 http://marklodato.github.io/visual-git-guide/index-en.html?no-svg
 
